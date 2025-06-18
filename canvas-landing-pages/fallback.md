@@ -1,26 +1,18 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Building RAG Databases</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+Transform theory into practice by building a complete Retrieval-Augmented Generation (RAG) pipeline from scratch. This hands-on lab uses a zero-install, browser-based environment to focus purely on RAG logic without infrastructure complexity.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+| [Setting Up Your RAG Environment](../microlesson-01/README.md) | 45 min | Set up zero-install RAG environment, understand the five core RAG steps, implement data loading and chunking |
+| [Building the Complete RAG Pipeline](../microlesson-02/README.md) | 45 min | Build end-to-end RAG chain, implement retrieval and generation, optimize and experiment with parameters |
+| **Total content**                                    | 90 min |                                     |
 
 ## References
 

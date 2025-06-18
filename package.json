@@ -1,7 +1,7 @@
 {
-  "name": "tktk-module-name",
+  "name": "Building-RAG-Databases",
   "version": "1.0.0",
-  "description": "",
+  "description": "Hands-on lab for building complete RAG pipelines from scratch",
   "scripts": {
     "mdv": "node md-validate.js"
   },

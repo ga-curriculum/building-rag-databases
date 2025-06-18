@@ -1,0 +1,26 @@
+{
+  "repo": {
+    "friendlyName": "Building RAG Databases",
+    "name": "Building-RAG-Databases",
+    "type": "Lesson"
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "microlessons": [
+        {
+          "friendlyName": "Setting Up Your RAG Environment",
+          "dirName": "microlesson-01",
+          "type": "Content",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "Building the Complete RAG Pipeline",
+          "dirName": "microlesson-02",
+          "type": "Content",
+          "videoUrl": ""
+        }
+      ]
+    }
+  ]
+} 
