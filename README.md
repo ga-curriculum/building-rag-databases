@@ -30,8 +30,8 @@ Transform theory into practice by building a complete Retrieval-Augmented Genera
 
 ### Course landing pages
 
-- [Building RAG Databases](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/Building-RAG-Databases/canvas-landing-pages/fallback.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/Building-RAG-Databases/canvas-landing-pages/fallback.html)
+- [Building RAG Databases](https://ga-curriculum.github.io/Building-RAG-Databases/canvas-landing-pages/fallback.html)
+- [Fallback](https://ga-curriculum.github.io/Building-RAG-Databases/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -43,4 +43,4 @@ Transform theory into practice by building a complete Retrieval-Augmented Genera
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
